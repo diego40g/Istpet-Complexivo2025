@@ -1,0 +1,51 @@
+Minutos 1-5: Fundamentos (1.1, 1.2)
+
+    Conceptos clave: Dedica este tiempo a refrescar las ideas principales. ¿Qué es la arquitectura de la computadora? Piensa en ella como el "plano" de cómo se organiza un sistema.
+
+    Evolución y clasificación: Recorre mentalmente las generaciones de computadoras, desde las más antiguas hasta las más modernas. ¿Cómo ha cambiado su tamaño y su potencia? ¿Recuerdas la diferencia entre una computadora de escritorio, un servidor y una supercomputadora?
+
+Minutos 6-20: Componentes físicos (1.3, 1.4, 1.5, 1.5.1, 1.5.2)
+
+    Hardware y Software (1.4): En un minuto, haz la distinción clara. El hardware es lo que puedes tocar (lo físico), y el software es lo que hace que funcione (los programas).
+
+    Dispositivos de Entrada/Salida (1.3, 1.5.2): Piensa en la configuración básica. ¿Qué dispositivos usas para darle información a la computadora (input) y cuáles para recibirla de vuelta (output)? Repasa rápidamente los ejemplos más comunes: teclado, mouse, monitor, impresora.
+
+    Componentes internos (1.5, 1.5.1): Aquí está el corazón de la máquina. Visualiza la placa base. ¿Dónde se encuentra el microprocesador (el cerebro)? ¿Qué son las memorias (RAM y ROM) y para qué sirven? No olvides los dispositivos de almacenamiento (discos duros) y las tarjetas (gráfica, de sonido).
+
+Minutos 21-30: Software (1.6, 1.6.1, 1.6.2, 1.6.3, 1.6.4)
+
+    Tipos de Software (1.6.1): ¿Cuál es la diferencia entre un software de sistema, un software de aplicación y un software de programación?
+
+    Sistemas Operativos (1.6.2): Piensa en el software más importante. ¿Recuerdas las características de los libres (como Linux) y los propietarios (como Windows o macOS)?
+
+    Aplicaciones y Drivers (1.6.3, 1.6.4): ¿Qué es un aplicativo? (un programa para una tarea específica, como Word o Photoshop). Y, por último, ¿qué son los drivers? (el software que permite que el sistema operativo "se comunique" con los componentes de hardware, como la impresora o la tarjeta gráfica).
+
+
+
+Minutos 1-15: Mantenimiento y Soporte (2.1 - 2.9)
+
+    Fundamentos del mantenimiento: Comienza con los conceptos básicos. ¿Qué es el mantenimiento? ¿Qué es el soporte técnico? Haz una distinción clara entre los tipos de mantenimiento: preventivo, correctivo y proactivo. Esto es clave para entender el rol del técnico.
+
+    Rol y herramientas: Reflexiona sobre el papel del técnico. ¿Cuáles son las herramientas físicas (destornilladores, pulseras antiestáticas) y lógicas (software de diagnóstico) que se utilizan? Repasa los niveles de soporte técnico (Nivel 1, Nivel 2, etc.) y cómo se aplican en un plan de mantenimiento.
+
+Minutos 16-30: Operación y Configuración (2.10 - 2.14)
+
+    Preparación y configuración: Dedica este tiempo a los procedimientos prácticos. ¿Cómo debe ser el ambiente de trabajo? ¿Qué pasos se siguen para la instalación de sistemas operativos (libres y propietarios), aplicativos y drivers?
+
+    Configuración del sistema: Refuerza el concepto del BIOS/UEFI (setup del sistema) y su importancia en la configuración del arranque. Recuerda que esta es la base para que el sistema operativo pueda cargar correctamente.
+
+Minutos 31-45: Seguridad y Desecho (2.15 - 2.20)
+
+    Conceptos de seguridad: Refresca los procedimientos de seguridad. ¿Cuáles son los peligros a los que se enfrentan técnicos y usuarios (descargas eléctricas, daños a componentes)?
+
+    Medidas de seguridad: Repasa las medidas de protección y los instrumentos necesarios (guantes, gafas de seguridad). ¿Qué pautas se deben seguir en caso de accidentes como incendios o cortos circuitos?
+
+    Reciclaje: Dedica un momento a recordar la importancia del reciclaje de equipos que han cumplido su vida útil, un tema crucial para el medio ambiente.
+
+Minutos 46-60: Dispositivos Móviles (3.1 - 3.9)
+
+    Fundamentos de móviles: Introduce la sección con una revisión de las tecnologías y la evolución de los dispositivos móviles. ¿Cómo han cambiado a lo largo del tiempo? ¿Cuáles son los principales tipos de dispositivos móviles y sus aplicaciones?
+
+    Componentes internos: Sumérgete en los componentes específicos de los móviles. ¿Qué es un SoC (System-on-a-chip)? ¿Qué diferencia a un procesador móvil de uno de PC? Repasa la función de los sensores, la GPU, la arquitectura ARM y otros elementos como la unidad de control.
+
+    Periféricos y comunicación: Para cerrar, reflexiona sobre la comunicación de datos y los dispositivos periféricos que se conectan a los móviles (auriculares, cargadores, etc.).
