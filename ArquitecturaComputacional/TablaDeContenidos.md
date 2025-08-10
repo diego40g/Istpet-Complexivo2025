@@ -1,4 +1,4 @@
-# Índice
+# Índice Arquitectura Computacional
 
 ## 1. Fundamentos
 - [Definición de arquitectura de computadoras](Unidad1-OrganizacionDeComputadoras/DefinicionDeArquitecturaDeComputadoras.md)

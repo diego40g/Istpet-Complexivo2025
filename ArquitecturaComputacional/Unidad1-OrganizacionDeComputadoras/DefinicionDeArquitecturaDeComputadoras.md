@@ -18,4 +18,4 @@ Se suele dividir en tres áreas principales:
   Se refiere a la realización física de la microarquitectura, incluyendo los circuitos, los chips y las tecnologías utilizadas para construir la computadora.
 
     ---
-  | [⬅Volver al índice](../TablaDeContenidos.md) | [Siguiente: Evolución histórica ➡️](EvolucionHistorica.md)
+  | [Volver al índice](../TablaDeContenidos.md) | [Siguiente: Evolución histórica ➡️](EvolucionHistorica.md)
