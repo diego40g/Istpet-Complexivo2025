@@ -15,4 +15,7 @@ Se suele dividir en tres áreas principales:
   Se encarga de la implementación interna del procesador, es decir, cómo se construye el hardware para ejecutar las instrucciones del ISA. Esto incluye la organización de componentes como la unidad de control, la unidad aritmético-lógica (ALU) y los registros.
 
 - **Implementación:**  
-  Se refiere a la realización física de la microarquitectura, incluyendo los circuitos, los chips y las tecnologías utilizadas para construir la
+  Se refiere a la realización física de la microarquitectura, incluyendo los circuitos, los chips y las tecnologías utilizadas para construir la computadora.
+
+    ---
+  | [⬅Volver al índice](../TablaDeContenidos.md) | [Siguiente: Evolución histórica ➡️](EvolucionHistorica.md)
