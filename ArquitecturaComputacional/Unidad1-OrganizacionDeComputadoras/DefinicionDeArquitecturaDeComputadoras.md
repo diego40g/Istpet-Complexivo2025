@@ -2,8 +2,7 @@
 
 La arquitectura de computadoras se refiere a los principios y métodos que describen la funcionalidad, la organización y la implementación de los sistemas informáticos. Esencialmente, es el conjunto de reglas y métodos que definen cómo se interrelacionan las diferentes partes de una computadora, como el hardware y el software, para que el sistema funcione de manera efectiva.
 
-![Arquitectura de computadoras](https://drive.google.com/uc?export=view&id=1ZxHbiRdkf7QvgcOZeFqmpn1qiKxpnhxb)
-![Arquitectura de computadoras](https://drive.google.com/file/d/1ZxHbiRdkf7QvgcOZeFqmpn1qiKxpnhxb/view?usp=sharing)
+<img src="https://drive.google.com/uc?export=view&id=1ZxHbiRdkf7QvgcOZeFqmpn1qiKxpnhxb" alt="Arquitectura de computadoras" style="width:35%; display:block; margin:auto;" />
 
 Se suele dividir en tres áreas principales:
 
