@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="../README.md">⬅️ <strong>Volver al Menú Principal</strong></a>
+</p>
+
+---
+
 # Índice Sistemas Operativos y Redes de Comunicación
 ## 💻 UNIDAD 1: Sistemas Operativos
 ### Tema 1: Fundamentos de los Sistemas Operativos.

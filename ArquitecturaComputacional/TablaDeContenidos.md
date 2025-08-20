@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="../README.md">⬅️ <strong>Volver al Menú Principal</strong></a>
+</p>
+
+---
+
 # Índice Arquitectura Computacional
 
 ## Unidad 1: Organización del Computadoras
