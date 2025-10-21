@@ -1,0 +1,126 @@
+## Solve Cisco excercises
+### Router 2960 ESPAÑA
+```bash
+enable
+configure terminal
+hostname Router2960
+interface GigabitEthernet0/0
+ip address 10.0.0.1 255.255.255.0
+no shutdown
+
+interface GigabitEthernet0/1
+ip address 192.168.0.1 255.255.255.252
+no shutdown
+
+ip route 10.0.1.0 255.255.255.0 192.168.0.2
+ip route 10.0.10.0 255.255.225.0 192.168.0.2
+ip route 10.0.5.0 255.255.255.0 192.168.0.2
+ip route 10.0.3.0 255.255.255.0 192.168.0.2
+ip route 10.0.12.0 255.255.255.0 192.168.0.2
+ip route 10.0.14.0 255.255.255.0 192.168.0.2
+ip route 10.0.6.0 255.255.255.0 192.168.0.2
+
+ip route 192.168.0.4 255.255.255.0 192.168.0.2
+ip route 192.168.0.8 255.255.255.0 192.168.0.2
+ip route 192.168.0.12 255.255.255.0 192.168.0.2
+ip route 192.168.0.16 255.255.255.0 192.168.0.2
+ip route 192.168.0.20 255.255.255.0 192.168.0.2
+ip route 192.168.0.24 255.255.255.0 192.168.0.2
+end 
+write memory
+```
+
+```bash
+interface GigabitEthernet0/0
+ip addres 192.168.0.2 255.255.255.252
+no shutdown 
+
+México
+interface GigabitEthernet0/1
+ip addres 192.168.0.9 255.255.255.252
+no shutdown 
+
+Colombia
+interface GigabitEthernet0/2
+ip addres 192.168.0.5 255.255.255.252
+no shutdown 
+
+LAN
+interface FastEthernet0/0
+ip addres 192.168.0.5 255.255.255.252
+no shutdown 
+
+
+
+ip route 10.0.0.0 255.255.255.0 192.168.0.1
+ip route 10.0.10.0 255.255.225.0 192.168.0.10
+ip route 10.0.5.0 255.255.255.0 192.168.0.10
+ip route 10.0.3.0 255.255.255.0 192.168.0.10
+ip route 10.0.12.0 255.255.255.0 192.168.0.6
+ip route 10.0.14.0 255.255.255.0 192.168.0.6
+ip route 10.0.6.0 255.255.255.0 192.168.0.6
+```
+
+### Router 2960 MEXICO
+enable
+configure terminal
+hostname Router2960
+interface GigabitEthernet0/0
+ip address 192.168.0.10 255.255.255.252
+no shutdown
+
+ESPAÑA
+192.168.0.10
+CHILE
+192.168.0.13
+FRANCIA
+192.168.0.17
+
+10.0.0.0 255.255.255.0 192.168.0.9
+10.0.1.0 255.255.255.0 192.168.0.9
+10.0.5.0 255.255.255.0 192.168.0.14
+10.0.3.0 255.255.255.0 192.168.0.18
+10.0.12.0 255.255.255.0 192.168.0.9
+10.0.14.0 255.255.255.0 192.168.0.9
+10.0.6.0 255.255.255.0 192.168.0.9
+
+### Router 2960 COLOMBIA
+enable
+configure terminal
+hostname Router2960
+interface GigabitEthernet0/0
+ip address 192.168.0.6 255.255.255.252
+no shutdown
+
+PERU
+192.168.0.21
+ALEMANIA
+192.168.0.25
+ESPAÑA
+192.168.0.6
+
+10.0.0.0 255.255.255.0 192.168.0.5
+10.0.1.0 255.255.255.0 192.168.0.5
+10.0.10.0 255.255.255.0 192.168.0.5
+10.0.5.0 255.255.255.0 192.168.0.5
+10.0.3.0 255.255.255.0 192.168.0.5
+10.0.12.0 255.255.255.0 192.168.0.22
+10.0.14.0 255.255.255.0 192.168.0.26
+10.0.6.0 255.255.255.0 192.168.0.26
+
+
+### Router 2960 CHILE
+interface GigabitEthernet0/0
+ip addres 192.168.0.14 255.255.255.252
+no shutdown 
+
+lan
+interface GigabitEthernet0/1
+ip addres 192.168.0.9 255.255.255.252
+no shutdown 
+
+rUTAS
+0.0.0.0 0.0.0.0 192.168.0.13
+
+
+
